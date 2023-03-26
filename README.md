@@ -22,6 +22,10 @@
 
 ### Simple Yet Advanced System Multi Tool And Cleaner Made In Batch!
 
+### Username: `Root` (You Can Change The Username If You Want)
+
+### Password: `Root`(You Can Change The Password If You Want)
+
 
 ## <a id="content"></a>🌐 〢 Table Of Contents
 
