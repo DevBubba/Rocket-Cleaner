@@ -29,10 +29,11 @@
 
 ## ✍️ To Do
 
-- More Options
-- Clear All Browser Cache
-- Add More Accessible Options
-- Make A Rocket-Cleaner V2 (Basically Making A C# Gui Version)
+- Add Even More Fonts
+- Make A Light Mode Option
+- Allow Multiple Color Themes With Backgrounds
+- Multi Background Choices
+- Fix Watch Stream Button
 
 
 ## 🚫 Not Working
