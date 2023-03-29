@@ -2,7 +2,7 @@
 
 ### All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This File
 
-## 🚀 [BatchSheild V2.0](https://github.com/DevBubba/Rocket-Cleaner/releases/tag/2.0) - 2023-03-27
+## 🚀 [Rocket Cleaner V2.0](https://github.com/DevBubba/Rocket-Cleaner/releases/tag/2.0) - 2023-03-27
 
 ### Simple Yet Advanced System Multi Tool And Cleaner Made In Batch!
 
