@@ -35,6 +35,7 @@
 - **[📥 〢 Install](#install)**
   - **[💻 〢 Prerequisites](#prerequisites)**
 - **[📷 〢 Preview](#preview)**
+- **[📚 〢 Changelog](#changelog)**
 - **[⚠️ 〢 Bugs Or Errors](#bugsorerrors)**
 - **[🧾 〢 Lisence](#lisence)**
 
@@ -75,6 +76,11 @@
 
 -   To Report An Error Make An **[Issue](https://github.com/DevBubba/Rocket-Cleaner/issues)**
 -   Or Join The **[Discord](https://discord.gg/6qAvAephsW)**
+
+
+## <a id="changelog"></a> 📚 〢 Changelog 
+
+All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This [File](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)
 
 
 ## 🧾 <a id="lisence"></a> License
