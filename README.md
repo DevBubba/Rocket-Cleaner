@@ -49,6 +49,7 @@
 - `Portable`🟢
 - `Multiple Obfuscation Choices`🟢
 - `More Options`🟡
+- `Fix Exe Version From Being A False Positive With Antiviruses`🟡
 - `Clear All Browser Cache`🟡
 - `Works On Other Devices Other Than Windows`🔴
 
