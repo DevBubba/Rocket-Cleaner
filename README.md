@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Img/RocketCleanerLogoPreview.png" width="25%" height="25%" />
+  No Current Preview Avaliable
 </div>
 
 <div align="center">
@@ -17,14 +17,9 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 
-# <a id="description"></a> 🚀 〢 Rocket Cleaner
+# <a id="description"></a>🚀 〢 Rocket Cleaner
 
-
-### Simple Yet Advanced System Multi Tool And Cleaner Made In Batch!
-
-### Username: `Root` (You Can Change The Username If You Want)
-
-### Password: `Root`(You Can Change The Password If You Want)
+### A lightweight yet powerful batch script that automates temp file cleanup, disk maintenance, and system optimization. Features an interactive menu, admin privilege handling, and fast execution. Portable & efficient!
 
 
 ## <a id="content"></a>🌐 〢 Table Of Contents
@@ -35,58 +30,77 @@
 - **[📥 〢 Install](#install)**
   - **[💻 〢 Prerequisites](#prerequisites)**
 - **[📷 〢 Preview](#preview)**
+- **[📝 〢 Notes](#notes)**
 - **[📚 〢 Changelog](#changelog)**
 - **[⚠️ 〢 Bugs Or Errors](#bugsorerrors)**
 - **[🧾 〢 Lisence](#lisence)**
 
 
-## <a id="features"></a> 🔰 〢 Features
+## <a id="features"></a>🔰 〢 Features
 
-- `Requires Administrator To Fix Any Bugs`🟢
-- `Multiple Cleaning And Tool Options`🟢
+- `Uses Built In Windows Functions`🟢
+  - Leverages native Windows commands (disk cleanup, disk check, and defragmenter) to perform system maintenance.
+- `Functional Temp Cleaner With Chrome Support`🟢
+  - Cleans temporary files including those related to Chrome.
+- `Admin Privilege Handling`🟢
+  - Checks for administrative rights and relaunches with elevated privileges if necessary.
+- `User Interface (Menu-Based System)`🟢
+  - Presents an interactive menu with options for different cleaning and maintenance tasks.
+- `Auto Update (Version Control)`🟢
+  - Automatically checks for & installs the latest version.
 - `Executable Version (.exe)`🟢
-- `Very Fast`🟢
+  - Compiled an executable version for easier distribution and usage.
+- `Fast Execution`🟢
+  - Designed to perform tasks quickly with minimal overhead.
 - `Portable`🟢
-- `Multiple Obfuscation Choices`🟢
+  - Does not require installation and can run from any location.
+
 - `More Options`🟡
-- `Fix Exe Version From Being A False Positive With Antiviruses`🟡
+  - Future expansion to include additional maintenance tasks.
 - `Clear All Browser Cache`🟡
+  - Planned feature to extend cleaning to all major browsers.
+
 - `Works On Other Devices Other Than Windows`🔴
+  - Currently designed and made exclusively for Windows environments.
 
 🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
 
 
-## <a id="install"></a> 📥 〢 Install
+## <a id="install"></a>📥 〢 Install
+
+- Download The Batch File And Run As Admin
+
+## <a id="prerequisites"></a>💻 〢 Prerequisites
+
+- Windows 7/10/11
 
 
-### <a id="prerequisites"></a> 💻 〢 Prerequisites
-
--   Windows 7/10/11
-
-
-## <a id="preview"></a> 📷 〢 Preview
+## <a id="preview"></a>📷 〢 Preview
 
 <div align="center">
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="Img/RocketCleanerMainPreview.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="Img/RocketCleanerAlternatePreview.png"></img>
+    No Current Preview Avaliable
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
 </div>
 
-## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
+## <a id="notes"></a>📝 〢 Notes 
 
--   To Report An Error Make An **[Issue](https://github.com/DevBubba/Rocket-Cleaner/issues)**
--   Or Join The **[Discord](https://discord.gg/6qAvAephsW)**
+- No Current Project Notes
+
+## <a id="bugsorerrors"></a>⚠️ 〢 Bugs Or Errors?
+
+- Report A Bug, Issue, Or Error On The **[Issues Page](https://github.com/DevBubba/Rocket-Cleaner/issues)**
+- Join The **[Discord](https://discord.gg/6qAvAephsW)** For Community Support
 
 
-## <a id="changelog"></a> 📚 〢 Changelog 
+## <a id="changelog"></a>📚 〢 Changelog 
 
-All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This [File](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)
+- All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This [Changelog File](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)
 
 
-## 🧾 <a id="lisence"></a> License
+## <a id="lisence"></a>🧾 〢 License
 
-### Rocket Cleaner is licensed under the <a href="https://mit-license.org/.">MIT License</a>
+- Rocket Cleaner is licensed under the [MIT License](https://mit-license.org/)
 
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
