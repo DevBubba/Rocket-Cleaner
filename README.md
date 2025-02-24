@@ -1,5 +1,5 @@
 <div align="center">
-  No Current Preview Avaliable
+  No Current Preview Available
 </div>
 
 <div align="center">
@@ -79,7 +79,7 @@
 
 <div align="center">
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    No Current Preview Avaliable
+    No Current Preview Available
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
 </div>
 
