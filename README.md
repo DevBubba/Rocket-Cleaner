@@ -61,7 +61,7 @@
 - `Works On Other Devices Other Than Windows`🔴
   - Currently designed and made exclusively for Windows environments.
 
-### 🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
+🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
 
 
 ## <a id="install"></a>📥 〢 Install
