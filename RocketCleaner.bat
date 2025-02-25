@@ -101,8 +101,8 @@ if "%CURRENT_VERSION%" == "%LATEST_VERSION%" (
     echo  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
     echo.
     echo  ╔════════════════════════════════════════════╗
-	echo  ║ [?] Rocket Cleaner Is Up To Date           ║
-	echo  ╚════════════════════════════════════════════╝
+    echo  ║ [?] Rocket Cleaner Is Up To Date           ║
+    echo  ╚════════════════════════════════════════════╝
     echo.
     timeout 3 >nul
     goto Main
@@ -117,8 +117,8 @@ if "%CURRENT_VERSION%" == "%LATEST_VERSION%" (
     echo  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
     echo.
     echo  ╔════════════════════════════════════════════╗
-	echo  ║ [?] New Version Available                  ║
-	echo  ╚════════════════════════════════════════════╝
+    echo  ║ [?] New Version Available                  ║
+    echo  ╚════════════════════════════════════════════╝
     echo.
     timeout 3 >nul
     cls
@@ -131,8 +131,8 @@ if "%CURRENT_VERSION%" == "%LATEST_VERSION%" (
     echo  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
     echo.
     echo  ╔════════════════════════════════════════════╗
-	echo  ║ [+] Downloading Update...                  ║
-	echo  ╚════════════════════════════════════════════╝
+    echo  ║ [+] Downloading Update...                  ║
+    echo  ╚════════════════════════════════════════════╝
     echo.
 
     curl -s -o "%TEMP_UPDATE_FILE%" %REPO_URL%
@@ -148,8 +148,8 @@ if "%CURRENT_VERSION%" == "%LATEST_VERSION%" (
         echo  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
         echo.
         echo  ╔════════════════════════════════════════════╗
-	    echo  ║ [-] Failed To Download Update              ║
-	    echo  ╚════════════════════════════════════════════╝
+	echo  ║ [-] Failed To Download Update              ║
+	echo  ╚════════════════════════════════════════════╝
         echo.
         timeout 5 >nul
         goto Main
@@ -165,8 +165,8 @@ if "%CURRENT_VERSION%" == "%LATEST_VERSION%" (
     echo  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
     echo.
     echo  ╔════════════════════════════════════════════╗
-	echo  ║ [+] Applying New Update...                 ║
-	echo  ╚════════════════════════════════════════════╝
+    echo  ║ [+] Applying New Update...                 ║
+    echo  ╚════════════════════════════════════════════╝
     echo.
 
     copy /Y "%TEMP_UPDATE_FILE%" "%~f0"
@@ -182,8 +182,8 @@ if "%CURRENT_VERSION%" == "%LATEST_VERSION%" (
     echo  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
     echo.
     echo  ╔════════════════════════════════════════════╗
-	echo  ║ [+] Succsesfully Updated, Restarting...    ║
-	echo  ╚════════════════════════════════════════════╝
+    echo  ║ [+] Succsesfully Updated, Restarting...    ║
+    echo  ╚════════════════════════════════════════════╝
     echo.
     timeout 3 >nul
     start "" "%~f0"
