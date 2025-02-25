@@ -49,3 +49,11 @@
 ### 🚫 Not Working
 
 - Nothing
+
+### 📝 Notes
+
+- The auto-update feature requires an active internet connection to check for the latest version.
+- Running the script without admin privileges may limit functionality.
+- Some features, like defragmentation, may take longer depending on the system's state.
+- The desktop file fixer will be reintroduced once stability improvements are made.
+- Report any bugs or issues on the GitHub **[Issues Page](https://github.com/DevBubba/Rocket-Cleaner/issues)**.
