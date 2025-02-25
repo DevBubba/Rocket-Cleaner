@@ -83,7 +83,10 @@
 
 ## <a id="notes"></a>📝 〢 Notes 
 
-- No Current Project Notes
+- The auto-update feature requires an active internet connection to check for the latest version.
+- Running the script without admin privileges may limit functionality.
+- Some features, like defragmentation, may take longer depending on the system's state.
+- The desktop file fixer will be reintroduced once stability improvements are made.
 
 ## <a id="bugsorerrors"></a>⚠️ 〢 Bugs Or Errors?
 
