@@ -27,12 +27,12 @@
 - **[📖 〢 Description](#description)**
 - **[🔰 〢 Features](#features)**
 - **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
+- **[💻 〢 Prerequisites](#prerequisites)**
 - **[📥 〢 Install](#install)**
-  - **[💻 〢 Prerequisites](#prerequisites)**
 - **[📷 〢 Preview](#preview)**
 - **[📝 〢 Notes](#notes)**
 - **[📚 〢 Changelog](#changelog)**
-- **[⚠️ 〢 Bugs Or Errors](#bugsorerrors)**
+- **[⚠️〢 Bugs Or Errors](#bugsorerrors)**
 - **[🧾 〢 Lisence](#lisence)**
 
 
@@ -64,14 +64,51 @@
 🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
 
 
-## <a id="install"></a>📥 〢 Install
-
-- Download The Batch File And Run As Admin
-
 ## <a id="prerequisites"></a>💻 〢 Prerequisites
 
-- Windows 7/10/11
+- Windows 10 or later
+- Administrator privileges (required for system maintenance tasks)
+  
+  
+## <a id="install"></a>📥 〢 Install
 
+1. **Download**
+   - Clone this repository:
+     ```sh
+     git clone https://github.com/devbubba/Rocket-Cleaner.git
+     ```
+   - Or download the latest or prefered release [here](https://github.com/devbubba/Rocket-Cleaner/releases).
+2. **Running Rocket Cleaner**
+   - Locate `RocketCleaner.bat` in the project folder.
+   - **Right-click and select "Run as administrator"** to ensure full functionality.
+   - Follow the on-screen menu prompts to clean your system.  
+
+### 🔧 Optional: Moving the Executable and Creating a Shortcut
+
+You can remove the extra repository files if you wish to run **Rocket Cleaner** from a preferred directory. Simply follow these steps:
+
+1. **Remove Unnecessary Files:**  
+   - Move `RocketCleaner.bat` (and any other necessary configuration files, if applicable in the future) to your preferred directory.
+   - You may delete the remaining repository files if they are not needed for your use.
+
+2. **Create a Desktop Shortcut:**  
+   - **Manual Shortcut:**  
+     - Right-click the relocated `RocketCleaner.bat` file and select **Create Shortcut**.
+     - Drag the shortcut to your desktop (or any preferred location).
+     - Right-click the shortcut, choose **Properties**, click the **Shortcut** tab, then the **Advanced** button, and finally check **Run as administrator**.
+   
+   - **Automated Shortcut (Optional Script):**  
+     You can also create a simple batch script to automatically create a desktop shortcut. Save the following as `create_shortcut.bat` or any other applicable name in the same folder as `Rocket Cleaner.bat` and run it:
+     ```bat
+     @echo off
+     set "TARGET=%~dp0Rocket Cleaner.bat"
+     set "SHORTCUT=%userprofile%\Desktop\Rocket Cleaner.lnk"
+     
+     powershell -Command "$s=(New-Object -COM WScript.Shell).CreateShortcut('%SHORTCUT%');$s.TargetPath='%TARGET%';$s.WorkingDirectory='%~dp0';$s.Save()"
+     
+     echo Shortcut created on Desktop. Right-click the shortcut, go to Properties, and set 'Run as administrator' if needed.
+     pause
+     ```
 
 ## <a id="preview"></a>📷 〢 Preview
 
