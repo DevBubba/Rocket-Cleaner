@@ -48,12 +48,12 @@
   - Presents an interactive menu with options for different cleaning and maintenance tasks.
 - `Auto Update (Version Control)`🟢
   - Automatically checks for & installs the latest version.
-- `Executable Version (.exe)`🟢
-  - Compiled an executable version for easier distribution and usage.
 - `Fast Execution`🟢
   - Designed to perform tasks quickly with minimal overhead.
 - `Portable`🟢
   - Does not require installation and can run from any location.
+- `Executable Version (.exe)`🟡
+  - Compiled an executable version for easier distribution and usage.
 - `More Options`🟡
   - Future expansion to include additional maintenance tasks.
 - `Clear All Browser Cache`🟡
