@@ -54,16 +54,14 @@
   - Designed to perform tasks quickly with minimal overhead.
 - `Portable`🟢
   - Does not require installation and can run from any location.
-
 - `More Options`🟡
   - Future expansion to include additional maintenance tasks.
 - `Clear All Browser Cache`🟡
   - Planned feature to extend cleaning to all major browsers.
-
 - `Works On Other Devices Other Than Windows`🔴
   - Currently designed and made exclusively for Windows environments.
 
-🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
+### 🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
 
 
 ## <a id="install"></a>📥 〢 Install
