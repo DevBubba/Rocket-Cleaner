@@ -1,5 +1,5 @@
 <div align="center">
-  No Current Preview Available
+  <img src="img/Logo.png" width="25%" height="25%" />
 </div>
 
 <div align="center">
