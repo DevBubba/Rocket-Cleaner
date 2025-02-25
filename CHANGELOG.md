@@ -1,40 +1,51 @@
-# 📚 〢 Rocket Cleaner Changelog
+# <a id="description"></a>📚 〢 Rocket Cleaner Changelog
 
-### All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This File
-
-## 🚀 [Rocket Cleaner V2.0](https://github.com/DevBubba/Rocket-Cleaner/releases/tag/2.0) - 2023-03-27
-
-### Simple Yet Advanced System Multi Tool And Cleaner Made In Batch!
-
-## ➕ Added
-
-- Nothing (Initial Commit)
+### All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This Changelog File
 
 
-## 🔨 Fixed
+## <a id="content"></a>🌐 〢 Table Of Contents
 
-- Nothing (Initial Commit)
+- **[📖 〢 Description](#description)**
+- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
+- **[📥 〢 Download](https://google.com/release-soon)**
+- **[📚 〢 Changelog](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)**
+  - **[🏷️ 〢 Version 1.0](#1.0)**
 
+## <a id="1.0"></a>🚀 [Rocket Cleaner V1.0](https://github.com/DevBubba/Rocket-Cleaner/releases/tag/v1.0) - 2025-02-24
 
-## 🛠️ Changed
+### ➕ Added
 
-- Nothing (Initial Commit)
-- Nothing (Initial Commit)
+- Request for admin rights on launch.
+- Comments for more readable user code related to file deletion.
+- Auto-update feature with version control.
+- Preferred method for requesting Chrome closure before cleaning cache files (history, cookies, cache, and user data).
+- Slightly improved user-friendliness.
 
+### 🔨 Fixed
 
-## 🗑️ Removed
+- UI spacer in the finished task display.
+- Admin rights gain method improved using flag files.
 
-- Nothing (Initial Commit)
+### 🛠️ Changed
 
+- Modified file deletion process to be faster and check if the directory exists before attempting deletion.
+- Optimized chkdsk flags for better disk checking (/F /R /X used where needed).
+- UI delay reduced for a smoother experience.
+- Pause added after each task to allow users to review logs.
 
-## ✍️ To Do
+### 🗑️ Removed
 
-- More Options
-- Clear All Browser Cache
-- Add More Accessible Options
-- Make A Rocket-Cleaner V2 (Basically Making A C# Gui Version)
+- Desktop file fixer (temporarily removed due to errors, may return in a future version).
 
+### ✍️ To Do
 
-## 🚫 Not Working
+- Add a restart check before restarting the PC.
+- Automatically run sfc /scannow after a restart instead of prompting the user.
+- Implement a way to check if files are in use by another process and skip those, while displaying successful deletions.
+- Possibly remove the admin rights request display in PowerShell and show it only via Batch.
+- Add defragmentation options for selected drives.
+- Reintroduce an improved desktop file fixer supporting more file types.
 
-- Nothing (Initial Commit)
+### 🚫 Not Working
+
+- Nothing
