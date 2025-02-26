@@ -104,7 +104,7 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
      You can also create a simple batch script to automatically create a desktop shortcut. Save the following as `create_shortcut.bat` or any other applicable name in the same folder as `Rocket Cleaner.bat` and run it:
      ```bat
      @echo off
-     set "TARGET=%~dp0Rocket Cleaner.bat"
+     set "TARGET=%~dp0RocketCleaner.bat"
      set "SHORTCUT=%userprofile%\Desktop\Rocket Cleaner.lnk"
      
      powershell -Command "$s=(New-Object -COM WScript.Shell).CreateShortcut('%SHORTCUT%');$s.TargetPath='%TARGET%';$s.WorkingDirectory='%~dp0';$s.Save()"
