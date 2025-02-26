@@ -61,7 +61,7 @@ set "counter=0"
         echo  ╚════════════════════════════════════════════╝
         echo.
         timeout 5 >nul
-        goto exit
+        goto CheckForUpdates
     )
     goto WaitForFlag
 
