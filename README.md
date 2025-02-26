@@ -30,6 +30,7 @@
 - **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
 - **[💻 〢 Prerequisites](#prerequisites)**
 - **[📥 〢 Install](#install)**
+- **[❓ 〢 FAQ](#faq)**
 - **[📷 〢 Preview](#preview)**
 - **[📝 〢 Notes](#notes)**
 - **[📚 〢 Changelog](#changelog)**
@@ -110,6 +111,23 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
      echo Shortcut created on Desktop. Right-click the shortcut, go to Properties, and set 'Run as administrator' if needed.
      pause
      ```
+
+## <a id="faq"></a>❓ 〢 FAQ
+
+- **Q: How often should I run Rocket Cleaner?**  
+  A: It's recommended to run Rocket Cleaner periodically, depending on your usage. If you're using many applications or browsing the web frequently, you may want to run it weekly to keep your system optimized.
+
+- **Q: Does Rocket Cleaner delete my personal files?**  
+  A: No, Rocket Cleaner only removes temporary system files, browser cache, and other files that can safely be deleted. It does not delete any personal files, documents, or photos.
+
+- **Q: I ran Rocket Cleaner without admin rights, and some features didn't work. What should I do?**  
+  A: Certain features require admin privileges (e.g., disk cleanup and defragmentation). Make sure to **right-click and select "Run as administrator"** when launching Rocket Cleaner to ensure full functionality.
+
+- **Q: How do I disable the auto-update feature?**  
+  A: Currently, the auto-update feature is built-in. If you wish to disable it, you can modify the script, but it's recommended to keep it enabled to ensure you're always using the latest version with improvements and fixes.
+
+- **Q: Can I use Rocket Cleaner on my Mac or Linux system?**  
+  A: Rocket Cleaner is designed exclusively for Windows. Future versions may support other operating systems, but for now, it is Windows-only.
 
 ## <a id="preview"></a>📷 〢 Preview
 
