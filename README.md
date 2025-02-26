@@ -63,8 +63,9 @@
 - `Works On Other Devices Other Than Windows`🔴
   - Currently designed and made exclusively for Windows environments.
 
-🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
-
+<div align="center">
+  🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
+</div>
 
 ## <a id="prerequisites"></a>💻 〢 Prerequisites
 
