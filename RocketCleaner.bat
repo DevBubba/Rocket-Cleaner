@@ -80,8 +80,8 @@ if not exist "%TEMP_VERSION_FILE%" (
     echo  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
     echo.
     echo  ╔════════════════════════════════════════════╗
-	echo  ║ [-] Failed To Check For Updates            ║
-	echo  ╚════════════════════════════════════════════╝
+    echo  ║ [-] Failed To Check For Updates            ║
+    echo  ╚════════════════════════════════════════════╝
     echo.
     timeout 5 >nul
     goto Main
