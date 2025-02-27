@@ -13,10 +13,7 @@
     <img src="https://img.shields.io/github/issues/DevBubba/Rocket-Cleaner?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/DevBubba/Rocket-Cleaner?color=%23000000&logoColor=%23000000">
     <br>
-</div>
-
-<div align="center">
-  <strong>Made with ❤️💻 by DevBubba</strong>
+    Made with ❤️💻 by DevBubba
 </div>
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
