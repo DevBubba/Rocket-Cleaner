@@ -80,7 +80,7 @@
      ```sh
      git clone https://github.com/devbubba/Rocket-Cleaner.git
      ```
-   - Or download the latest release [here](https://github.com/devbubba/Rocket-Cleaner/releases).
+   - Or download the latest release **[here](https://github.com/devbubba/Rocket-Cleaner/releases)**.
 2. **Running Rocket Cleaner**
    - Locate `RocketCleaner.bat` in the project folder.
    - **Right-click and select "Run as administrator"** to ensure full functionality.
