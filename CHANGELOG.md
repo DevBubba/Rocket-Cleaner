@@ -1,6 +1,6 @@
 # <a id="description"></a>📚 〢 Rocket Cleaner Changelog
 
-### All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This Changelog File
+### All notable changes and updates to Rocket Cleaner (this project) will be carefully documented in this file. This includes bug fixes, new features, improvements, and any other modifications made to the software, providing you with a comprehensive history of the project’s evolution. Be sure to check the changelog regularly to stay informed about the latest developments.
 
 
 ## <a id="content"></a>🌐 〢 Table Of Contents
@@ -10,6 +10,7 @@
 - **[📥 〢 Download](https://github.com/DevBubba/Rocket-Cleaner/releases)**
 - **[📚 〢 Changelog](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)**
   - **[🏷️ 〢 Version 1.0](#1.0)**
+
 
 ## <a id="1.0"></a>🚀 [Rocket Cleaner V1.0](https://github.com/DevBubba/Rocket-Cleaner/releases/tag/v1.0) - 2025-02-24
 
