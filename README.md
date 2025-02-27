@@ -157,10 +157,19 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
 
 ## <a id="notes"></a>📝 〢 Notes 
 
+- System optimization requires admin privileges.
+- Some optimizations require system restart.
+- Service changes may affect system behavior.
+- Each browser type requires different cleanup approaches.
+- Some browser data may require multiple cleanup passes.
+- Browser profiles in non-standard locations will be detected.
+- Certain browser data may require manual verification.
+- Browser cleanup requires closing active browser instances.
 - The auto-update feature requires an active internet connection to check for the latest version.
 - Running the script without admin privileges may limit functionality.
 - Some features, like defragmentation, may take longer depending on the system's state.
 - The desktop file fixer will be reintroduced once stability improvements are made.
+- Report any bugs or issues on the GitHub **[Issues Page](https://github.com/DevBubba/Rocket-Cleaner/issues)**.
 
 
 ## <a id="changelog"></a>📚 〢 Changelog 
