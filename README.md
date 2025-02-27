@@ -46,8 +46,12 @@
 
 - `Uses Built In Windows Functions`🟢
   - Leverages native Windows commands (disk cleanup, disk check, and defragmenter) to perform system maintenance.
-- `Functional Temp Cleaner With Chrome Support`🟢
-  - Cleans temporary files including those related to Chrome.
+- `Clear All Browser Cache`🟢
+  - Complete browser data cleaning support for Chrome, Edge, Firefox, Opera, and Brave browsers.
+- `System Optimization`🟢
+  - Comprehensive Windows system optimization including services, registry, and performance tuning.
+- `Advanced Browser Management`🟢
+  - Deep cleaning of browser profiles, passwords, autofill data, and browser-specific components.
 - `Admin Privilege Handling`🟢
   - Checks for administrative rights and relaunches with elevated privileges if necessary.
 - `User Interface (Menu-Based System)`🟢
@@ -58,12 +62,14 @@
   - Designed to perform tasks quickly with minimal overhead.
 - `Portable`🟢
   - Does not require installation and can run from any location.
+- `Auto Clean`🟡
+  - Allow users to set specific dates or times to auto clean their system with prefered settings.
+- `More User Custimization`🟡
+  - Allow users to set specific preferences for cleanup tasks.
 - `Executable Version (.exe)`🟡
   - Compiled an executable version for easier distribution and usage.
 - `More Options`🟡
   - Future expansion to include additional maintenance tasks.
-- `Clear All Browser Cache`🟡
-  - Planned feature to extend cleaning to all major browsers.
 - `Works On Other Devices Other Than Windows`🔴
   - Currently designed and made exclusively for Windows environments.
 
