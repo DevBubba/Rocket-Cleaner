@@ -13,15 +13,18 @@
     <img src="https://img.shields.io/github/issues/DevBubba/Rocket-Cleaner?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/DevBubba/Rocket-Cleaner?color=%23000000&logoColor=%23000000">
     <br>
-    Made with ❤️💻 by DevBubba
 </div>
+
+<div align="center">
+  <strong>Made with ❤️💻 by DevBubba</strong>
+</div>
+
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 
 # <a id="description"></a>🚀 〢 Rocket Cleaner
 
 ### A lightweight yet powerful batch script that automates temp file cleanup, disk maintenance, and system optimization. Features an interactive menu, admin privilege handling, and fast execution. Portable & efficient!
-
 
 ## <a id="content"></a>🌐 〢 Table Of Contents
 
