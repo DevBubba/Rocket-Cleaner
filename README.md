@@ -36,6 +36,7 @@
 - **[📚 〢 Changelog](#changelog)**
 - **[⚠️〢 Bugs Or Errors](#bugsorerrors)**
 - **[🧾 〢 Lisence](#lisence)**
+- **[🛠️ 〢 Contributing](#contributing)**
 
 
 ## <a id="features"></a>🔰 〢 Features
@@ -141,12 +142,14 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
 </div>
 
+
 ## <a id="notes"></a>📝 〢 Notes 
 
 - The auto-update feature requires an active internet connection to check for the latest version.
 - Running the script without admin privileges may limit functionality.
 - Some features, like defragmentation, may take longer depending on the system's state.
 - The desktop file fixer will be reintroduced once stability improvements are made.
+
 
 ## <a id="bugsorerrors"></a>⚠️ 〢 Bugs Or Errors?
 
@@ -163,5 +166,47 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
 
 - Rocket Cleaner is licensed under the **[MIT License](https://mit-license.org/)**
 
+
+## <a id="contributing"></a>🛠️ 〢 Contributing  
+
+### We welcome contributions! If you'd like to help improve the project, follow these steps:
+
+1. **Fork the Repository**  
+   - Click the "Fork" button on GitHub to create your copy of the project.  
+
+2. **Clone Your Fork**  
+   - Use the following command to download your forked repository:  
+     ```sh  
+     git clone https://github.com/your-username/Rocket-Cleaner.git  
+     ```  
+
+3. **Create a Branch**  
+   - Run the following command to create a new branch for your feature or fix:  
+     ```sh  
+     git checkout -b feature-name  
+     ```  
+
+4. **Make Your Changes**  
+   - Implement your changes while ensuring they align with the project's goals.  
+
+5. **Test Thoroughly**  
+   - Verify that your modifications do not introduce any issues.  
+
+6. **Commit & Push**  
+   - Commit your changes with a meaningful message and push to your forked repository:  
+     ```sh  
+     git commit -m "Description of changes"  
+     git push origin feature-name  
+     ```  
+
+7. **Submit a Pull Request**  
+   - Open a pull request on GitHub for review and approval.  
+
+### 📜 Contribution Guidelines  
+- Keep your code clean and well-documented.  
+- Ensure compatibility and maintain fast execution.
+- Follow the existing coding style for consistency.  
+- Discuss major changes in a **[Discussion](https://github.com/DevBubba/Rocket-Cleaner/discussions)** or **[Issue](https://github.com/DevBubba/Rocket-Cleaner/issues)** before submitting a pull request.  
+- Please review our **[Code Of Conduct](https://github.com/devbubba/Rocket-Cleaner/blob/main/CODE_OF_CONDUCT.md)** before contributing.
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
