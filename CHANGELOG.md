@@ -5,8 +5,8 @@
 
 ## <a id="content"></a>🌐 〢 Table Of Contents
 
-- **[📖 〢 Description](#description)**
 - **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
+- **[📖 〢 Description](#description)**
 - **[📥 〢 Download](https://github.com/DevBubba/Rocket-Cleaner/releases)**
 - **[📚 〢 Changelog](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)**
   - **[🏷️ 〢 Version 1.0](#1.0)**
