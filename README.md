@@ -23,18 +23,21 @@
 
 ### A lightweight yet powerful batch script that automates temp file cleanup, disk maintenance, and system optimization. Features an interactive menu, admin privilege handling, and fast execution. Portable & efficient!
 
+
 ## <a id="content"></a>🌐 〢 Table Of Contents
 
+- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
 - **[📖 〢 Description](#description)**
 - **[🔰 〢 Features](#features)**
-- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
 - **[💻 〢 Prerequisites](#prerequisites)**
 - **[📥 〢 Install](#install)**
 - **[❓ 〢 FAQ](#faq)**
 - **[📷 〢 Preview](#preview)**
 - **[📝 〢 Notes](#notes)**
 - **[📚 〢 Changelog](#changelog)**
-- **[⚠️〢 Bugs Or Errors](#bugsorerrors)**
+- **[❌ 〢 Bugs Or Errors](#bugsorerrors)**
+  - **[⚠️ 〢 Disclaimer](#disclaimer)**
+- **[🤝 〢 Code Of Conduct](#codeofconduct)**
 - **[🧾 〢 Lisence](#lisence)**
 - **[🛠️ 〢 Contributing](#contributing)**
 
@@ -67,6 +70,7 @@
 <div align="center">
   🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
 </div>
+
 
 ## <a id="prerequisites"></a>💻 〢 Prerequisites
 
@@ -114,6 +118,7 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
      pause
      ```
 
+
 ## <a id="faq"></a>❓ 〢 FAQ
 
 - **Q: How often should I run Rocket Cleaner?**  
@@ -130,6 +135,7 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
 
 - **Q: Can I use Rocket Cleaner on my Mac or Linux system?**  
   A: Rocket Cleaner is designed exclusively for Windows. Future versions may support other operating systems, but for now, it is Windows-only.
+
 
 ## <a id="preview"></a>📷 〢 Preview
 
@@ -151,20 +157,30 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
 - The desktop file fixer will be reintroduced once stability improvements are made.
 
 
-## <a id="bugsorerrors"></a>⚠️ 〢 Bugs Or Errors?
-
-- Report a bug, issue, or error on the **[Issues Page](https://github.com/DevBubba/Rocket-Cleaner/issues)**
-- Join the **[Discord](https://discord.gg/6qAvAephsW)** for community support, direct contact, or helpful advice
-
-
 ## <a id="changelog"></a>📚 〢 Changelog 
 
-- All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This **[Changelog File](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)**
+- All notable changes and updates to Rocket Cleaner (this project) will be carefully documented in the **[Changelog](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)**. This includes bug fixes, new features, improvements, and any other modifications made to the software, providing you with a comprehensive history of the project’s evolution. Be sure to check the changelog regularly to stay informed about the latest developments.
+
+
+## <a id="bugsorerrors"></a>❌ 〢 Bugs Or Errors?
+
+- Report a bug, issue, or error on the **[Issues Page](https://github.com/DevBubba/Rocket-Cleaner/issues)**.
+- Join the **[Discord](https://discord.gg/6qAvAephsW)** for community support, direct contact, or helpful advice.
+
+
+## <a id="disclaimer"></a>⚠️ 〢 Disclaimer
+
+- **Use Rocket Cleaner at your own risk.** While it is designed to improve your computer’s performance, please be aware of the changes it may make to your system. The developer cannot be held accountable for any unintended outcomes.
+
+
+## <a id="codeofconduct"></a>🤝 〢 Code Of Conduct
+
+- The **[Code of Conduct](https://github.com/devbubba/Rocket-Cleaner/blob/main/CODE_OF_CONDUCT.md)** outlines the expected behavior for contributors and users of Rocket Cleaner. We are committed to creating a welcoming and inclusive environment for everyone. Please review and adhere to it.
 
 
 ## <a id="lisence"></a>🧾 〢 License
 
-- Rocket Cleaner is licensed under the **[MIT License](https://mit-license.org/)**
+- Rocket Cleaner is distributed under the **[MIT License](https://mit-license.org/)**, granting you permission to use, modify, and distribute the software. Please review the license for detailed terms and conditions before proceeding.
 
 
 ## <a id="contributing"></a>🛠️ 〢 Contributing  
@@ -207,6 +223,6 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
 - Ensure compatibility and maintain fast execution.
 - Follow the existing coding style for consistency.  
 - Discuss major changes in a **[Discussion](https://github.com/DevBubba/Rocket-Cleaner/discussions)** or **[Issue](https://github.com/DevBubba/Rocket-Cleaner/issues)** before submitting a pull request.  
-- Please review our **[Code Of Conduct](https://github.com/devbubba/Rocket-Cleaner/blob/main/CODE_OF_CONDUCT.md)** before contributing.
+- Please review our **[Code of Conduct](https://github.com/devbubba/Rocket-Cleaner/blob/main/CODE_OF_CONDUCT.md)** before contributing.
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
