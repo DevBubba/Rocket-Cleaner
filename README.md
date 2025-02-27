@@ -177,7 +177,7 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
 2. **Clone Your Fork**  
    - Use the following command to download your forked repository:  
      ```sh  
-     git clone https://github.com/your-username/Rocket-Cleaner.git  
+     git clone https://github.com/DevBubba/Rocket-Cleaner.git  
      ```  
 
 3. **Create a Branch**  
