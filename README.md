@@ -69,8 +69,8 @@
 
 ## <a id="prerequisites"></a>💻 〢 Prerequisites
 
-- Windows 10 or later
-- Administrator privileges (required for system maintenance tasks)
+- Windows 10 or later.
+- Administrator privileges (required for system maintenance tasks).
   
   
 ## <a id="install"></a>📥 〢 Install
@@ -150,18 +150,18 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
 
 ## <a id="bugsorerrors"></a>⚠️ 〢 Bugs Or Errors?
 
-- Report A Bug, Issue, Or Error On The **[Issues Page](https://github.com/DevBubba/Rocket-Cleaner/issues)**
-- Join The **[Discord](https://discord.gg/6qAvAephsW)** For Community Support
+- Report a bug, issue, or error on the **[Issues Page](https://github.com/DevBubba/Rocket-Cleaner/issues)**
+- Join the **[Discord](https://discord.gg/6qAvAephsW)** for community support, direct contact, or helpful advice
 
 
 ## <a id="changelog"></a>📚 〢 Changelog 
 
-- All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This [Changelog File](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)
+- All Notable Changes To Rocket-Cleaner (This Project) Will Be Documented In This **[Changelog File](https://github.com/DevBubba/Rocket-Cleaner/blob/main/CHANGELOG.md)**
 
 
 ## <a id="lisence"></a>🧾 〢 License
 
-- Rocket Cleaner is licensed under the [MIT License](https://mit-license.org/)
+- Rocket Cleaner is licensed under the **[MIT License](https://mit-license.org/)**
 
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
