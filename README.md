@@ -169,7 +169,6 @@ You can remove the extra repository files if you wish to run **Rocket Cleaner** 
 - Running the script without admin privileges may limit functionality.
 - Some features, like defragmentation, may take longer depending on the system's state.
 - The desktop file fixer will be reintroduced once stability improvements are made.
-- Report any bugs or issues on the GitHub **[Issues Page](https://github.com/DevBubba/Rocket-Cleaner/issues)**.
 
 
 ## <a id="changelog"></a>📚 〢 Changelog 
